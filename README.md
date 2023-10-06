@@ -1,4 +1,3 @@
 # A-Live
-
-#Planeacion del proyecto:
-#https://trello.com/w/creacionvideojuegos
+Planeacion del proyecto:
+# https://trello.com/w/creacionvideojuegos
