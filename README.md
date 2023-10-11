@@ -4,7 +4,7 @@
 
   <h3 align="center">Descripción</h3>
 
-  <p align="center">
+  <p align="justify">
     Se trata de un videojuego en motor 3D perteneciente al genero Survival Horror, Nos encontramos en la historia. La universidad en la cual estudia Miguel organiza una fiesta para celebrar la fecha de Halloween para los alumnos del edificio F de Tics durante el transcurso de la fiesta sucede un apagón sin explicación alguna y Miguel despierta fuera del edificio sin compañía de sus amigos con los que se encontraba, ahora deberá encontrarlos y saber que sucedió
     <br>
   </p>
@@ -21,6 +21,12 @@
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Planeación del proyecto
 ### [https://trello.com/w/creacionvideojuegos](https://trello.com/b/aWLhDxDv/alive)
