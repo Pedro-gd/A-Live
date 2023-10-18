@@ -40,7 +40,17 @@
 <p align="justify">
 En esta unidad, programarás un juego de vista aérea con el objetivo de lanzar comida a los animales hambrientos (que vienen en estampida hacia ti) antes de que te esquiven. Para ello, te familiarizarás con algunos de los conceptos más importantes de la programación y de Unity, como las declaraciones condicionales, la generación de valores aleatorios, los arreglos, la detección de colisiones, los Prefabs y las posiciones de una instancia. Al completar esta unidad, aprenderás a programar un juego básico que permita lanzar proyectiles y mover al jugador para mantener el juego vivo. 
 </p>
-  
+
+- ###  Sonido y Efectos
+  ![image](https://github.com/Pedro-gd/Alive/assets/87114168/e2b69117-a56a-4ddd-bc0b-9243ee1caf79)
+- [Carpeta en Repositorio](https://github.com/Pedro-gd/Alive/tree/main/Sonido%20y%20Efectos)
+- #### Videos
+  - https://drive.google.com/drive/folders/18RXgFvBJ70ofEorfo9V8ay_V5IhHX29o 
+- #### Descripción
+<p align="justify">
+En esta Unidad programarás un juego de desplazamiento lateral infinito de gran velocidad donde el jugador necesita sincronizar sus saltos sobre obstáculos para evitar chocar. Al crear este prototipo, aprenderás sobre cómo agregar música y efectos de sonido para transformar por completo la experiencia de tus proyectos. También aprenderás a crear fondos infinitos dinámicos repetibles, que son cruciales para cualquier juego de desplazamiento lateral. Por último, aprenderás a incorporar efectos de partículas como salpicaduras y explosiones, los cuales harán que la jugabilidad de tus juegos sea mucho más satisfactoria.  
+</p>
+
 - ###  Efectos y Sonido
 - ###  Mechanics
 - ###  Interfaz del Usuario
