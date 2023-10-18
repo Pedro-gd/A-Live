@@ -15,7 +15,7 @@
 - [Planeación del proyecto](#planeación-del-proyecto)
 - [Lecciones de Unity 3D](#lecciones-de-Unity-3D)
   - [Basic Gameplay](#basic-gameplay)
-  - [Efectos y Sonido](#efectos-y-sonido)
+  - [Sonido y Efectos](#sonido-y-efectos)
   - [Mechanics](#mechanics)
   - [Interfaz del Usuario](#interfaz-del-usuario)
 
@@ -51,6 +51,5 @@ En esta unidad, programarás un juego de vista aérea con el objetivo de lanzar 
 En esta Unidad programarás un juego de desplazamiento lateral infinito de gran velocidad donde el jugador necesita sincronizar sus saltos sobre obstáculos para evitar chocar. Al crear este prototipo, aprenderás sobre cómo agregar música y efectos de sonido para transformar por completo la experiencia de tus proyectos. También aprenderás a crear fondos infinitos dinámicos repetibles, que son cruciales para cualquier juego de desplazamiento lateral. Por último, aprenderás a incorporar efectos de partículas como salpicaduras y explosiones, los cuales harán que la jugabilidad de tus juegos sea mucho más satisfactoria.  
 </p>
 
-- ###  Efectos y Sonido
 - ###  Mechanics
 - ###  Interfaz del Usuario
