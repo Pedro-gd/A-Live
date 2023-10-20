@@ -28,7 +28,7 @@
 <br>
 
 ## Planeación del proyecto (Trello)
-### [https://trello.com/w/creacionvideojuegos](https://trello.com/b/aWLhDxDv/alive)
+### https://trello.com/invite/b/aWLhDxDv/ATTIc6434777ba255b222f663b29f221c98fE5662E98/alive 
 
 ## Lecciones de Unity 3D
 - ###  Basic Gameplay
